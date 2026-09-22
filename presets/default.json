@@ -4,8 +4,17 @@
   "{Pictures}": "pink",
   "{Music}": "mauve",
   "{Videos}": "red",
-  "{Desktop}\\IN1000": "peach",
-  "{Desktop}\\IN2040": "yellow",
-  "{Desktop}\\UiO in2120": "teal",
-  "{Profile}\\informatikk": "lavender"
+  "{Documents}\\Skole": "peach",
+  "{Documents}\\Skole\\IN1000": "peach",
+  "{Documents}\\Skole\\IN1020": "yellow",
+  "{Documents}\\Skole\\IN1150": "green",
+  "{Documents}\\Skole\\IN2040": "teal",
+  "{Documents}\\Skole\\IN2090": "sky",
+  "{Documents}\\Skole\\IN2120": "blue",
+  "{Documents}\\Skole\\Exphil": "pink",
+  "{Documents}\\Personlig": "lavender",
+  "{Documents}\\Prosjekter": "mauve",
+  "{Documents}\\GitHub": "gray",
+  "{Pictures}\\AI-bilder": "mauve",
+  "{Pictures}\\Fra mobil": "sky"
 }
